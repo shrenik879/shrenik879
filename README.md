@@ -34,10 +34,9 @@
 ---
 
 ## 💻 Tech Stack
-
 ### Languages
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python"/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
 </p>
 
 ### Backend Development
@@ -50,7 +49,7 @@
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
 </p>
 
-### Databases
+### Databases & Backend Services
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase"/>
 </p>
