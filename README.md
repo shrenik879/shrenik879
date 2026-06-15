@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrenik Kondekar</h1>
-<h3 align="center">Backend Developer | Full Stack Developer | B.Tech CSE Student</h3>
+<h3 align="center">Java Developer | Full Stack Developer | Problem Solver | Final Year B.Tech CSE Student</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shrenik-kondekar">
