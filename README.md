@@ -121,29 +121,40 @@
 
 ---
 
-## 🎯 Campus Placement Management System
+## 🎓 Campus Placement Management System
 
-[![GitHub](https://img.shields.io/badge/Repository-181717?style=for-the-badge\&logo=github)](https://github.com/shrenik879/CampusPlacementManagement)
+A full-stack placement portal that streamlines the campus recruitment process by connecting Students, Companies, Placement Officers, and Administrators on a single platform. Built with React, Spring Boot, MySQL, Redis, and secured using JWT authentication. The system includes AI-powered career assistance, resume management, interview tracking, and interactive Swagger API documentation. :contentReference[oaicite:0]{index=0}
 
-**Tech Stack:** Spring Boot • Spring Security • React • MySQL • Redis • Docker
+### 🔗 Live Demo
 
-### Key Features
+- 🌐 Frontend: https://campus-placement-frontend-nu.vercel.app
+- ⚙️ Backend API: http://3.208.20.63:8081
+- 📖 Swagger UI: http://3.208.20.63:8081/swagger-ui/index.html
+- 📄 OpenAPI Docs: http://3.208.20.63:8081/v3/api-docs
+- 💻 Repository: https://github.com/shrenik879/CampusPlacementManagement
 
-* Role-Based Access Control (Admin, Company, Student)
-* Resume Parsing & Analysis
-* AI Chatbot Integration
-* Real-Time Notifications
-* Redis Caching
-* API Rate Limiting
+### ✨ Key Features
 
-### Highlights
+- JWT Authentication & Role-Based Access Control (RBAC)
+- Student, Company, Placement Officer & Admin Portals
+- Job Posting & Application Tracking
+- Resume Upload with Cloudinary Integration
+- AI Career Assistant powered by Google Gemini
+- Interview Round Management
+- Email Notifications via Gmail SMTP
+- Redis Caching for Performance
+- Interactive Swagger API Documentation
 
-* Redis performance optimization
-* Bucket4j API rate limiting
-* Apache PDFBox resume extraction
-* WebSocket-based notifications
-* Asynchronous email processing
+### 🚀 Highlights
 
+- Production-ready deployment on AWS EC2
+- Modern React + Spring Boot architecture
+- Secure REST APIs with Spring Security & JWT
+- Server-side Pagination & Sorting
+- Redis-based Performance Caching
+- AI-powered Career Assistant (Google Gemini)
+- Cloudinary Resume Storage
+- Interactive Swagger/OpenAPI Documentation
 ---
 
 ## 🤖 ReactForge – AI-Powered React Platform
